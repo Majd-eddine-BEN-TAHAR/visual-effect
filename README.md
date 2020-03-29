@@ -1,3 +1,3 @@
 # Visual effect with vanilla JS
 
-For live preview visit : [Visual Effect](https://Majd-eddine-BEN-TAHAR.github.io/visual-effect)
+For live preview visit : [Visual Effect](https://majd-eddine-ben-tahar.github.io/visual-effect/)
